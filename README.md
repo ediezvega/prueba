@@ -1,2 +1,1 @@
-# prueba
-Practica 1
+Primer fichero en el primer repositorio de Estibaliz Diez
